@@ -4,6 +4,7 @@ collection: teaching
 permalink: /teaching/teach
 ---
 
+Teaching Experiences
 ======
 Information Security I (CSE 4380) Instructor & Teaching Assistant      Spring 2023   
 
