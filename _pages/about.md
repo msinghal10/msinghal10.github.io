@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year Ph.D. candidate in the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) a [The University of Texas at Arlington](https://www.uta.edu/). My Ph.D. advisor is [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs). 
+I'm a fourth-year Ph.D. candidate in the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/). My Ph.D. advisor is [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs). 
 
 
 
@@ -34,7 +34,7 @@ Recent News
 
 <span style="color:blue">April 2022:</span> Our poster on ["Detecting Misinformation about Zoom’s Security and Privacy Threats"](https://twitter.com/NDSSSymposium/status/1519349732283273216) received the best technical poster award at NDSS 2022.
 
-<span style="color:blue">February 2022:</span> Our poster on ["Detecting Misinformation about Zoom’s Security and Privacy Threats"](https://uta.engineering/scrf/presentations.php) received the best project/poster demo award ar SCRF 2022.
+<span style="color:blue">February 2022:</span> Our poster on ["Detecting Misinformation about Zoom’s Security and Privacy Threats"](https://uta.engineering/scrf/presentations.php) received the best project/poster demo award at SCRF 2022.
 
 
 
