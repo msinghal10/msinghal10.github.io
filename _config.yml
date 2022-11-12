@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D. Candidate"
   location         : "Arlington, TX"
   employer         : 
-  pubmed           : 
+  cv               : "https://msinghal10.github.io/Resume/"
   googlescholar    : "https://scholar.google.com/citations?user=8MNR5Y8AAAAJ&hl=en&oi=ao"
-  email            : "mohit.singhal@mavs.uta.edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
