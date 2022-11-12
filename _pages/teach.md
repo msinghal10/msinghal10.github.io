@@ -7,6 +7,7 @@ redirect_from:
   - /teaching
 ---
 
+======
 <span style="color:black">Spring 2023:</span>Information Security I (CSE 4380) Instructor & Teaching Assistant                                          
 <span style="color:black">Fall 2022:</span>Information Security I (CSE 4380) Teaching Assistant 
 
