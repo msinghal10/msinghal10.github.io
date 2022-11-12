@@ -1,11 +1,3 @@
----
-title: "Teaching experiences"
-collection: teaching
-permalink: /teaching/teach
----
-
-Teaching Experiences
-======
 Information Security I (CSE 4380) Instructor & Teaching Assistant      Spring 2023   
 
 Information Security I (CSE 4380) Teaching Assistant                   Fall 2022
