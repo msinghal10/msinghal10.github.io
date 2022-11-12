@@ -18,9 +18,15 @@ My current research interest include social computing, data-driven fact checking
 
 Publications
 ======
-**Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. To appear in 17th International AAAI Conference on Web and Social Media [ICWSM 2023] (https://arxiv.org/pdf/2110.12296.pdf).
+**Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. To appear in 17th International AAAI Conference on Web and Social Media [ICWSM 2023](https://arxiv.org/pdf/2110.12296.pdf).
 
 **Singhal, M.**, & Levine, D. (2019, October). Analysis and categorization of drive-by download malware. In 2019 4th International Conference on Computing, Communications and Security (ICCCS) (pp. 1-4). IEEE.
+
+Recent News
+======
+<span style="color:blue">October 2022:</span> I will be teaching CSE4380.
+<span style="color:blue">October 2022:</span> I received "The Outstanding TA Award" from the department.
+
 
 Contact
 ------
