@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohit Singhal"
+  name             : &name "Mohit Singhal"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Arlington, TX"
