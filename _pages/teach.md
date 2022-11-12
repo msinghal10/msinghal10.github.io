@@ -7,8 +7,8 @@ redirect_from:
   - /experience
 ---
 
-Instructor
-======
+<!-- Instructor
+====== -->
 
 <span style="color:blue">Spring 2023:</span> Information Security I (CSE 4380)
 
