@@ -22,10 +22,21 @@ Publications
 
 **Singhal, M.**, & Levine, D. (2019, October). Analysis and categorization of drive-by download malware. In 2019 4th International Conference on Computing, Communications and Security (ICCCS) (pp. 1-4). IEEE.
 
+**Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Poster: Detecting Misinformation about Zoom’s Security and Privacy Threats. In [NDSS 2022](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_25.pdf).
+
 Recent News
 ======
-<span style="color:blue">October 2022:</span> I will be teaching CSE4380.
-<span style="color:blue">October 2022:</span> I received "The Outstanding TA Award" from the department.
+<span style="color:blue">October 2022:</span> I will be teaching CSE4380 in Spring 2023.
+
+<span style="color:blue">October 2022:</span> I received "The Outstanding TA Award" at [UTA CSE Mouser Electronics Awards Banquet](https://www.facebook.com/cseutarlington/photos/a.8170724059667577/8170653603007956).
+
+<span style="color:blue">August 2022:</span> Our paper on ["Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom's Threats"](https://arxiv.org/pdf/2110.12296.pdf) got accepted to ICWSM 2023.
+
+<span style="color:blue">April 2022:</span> Our poster on ["Detecting Misinformation about Zoom’s Security and Privacy Threats"](https://twitter.com/NDSSSymposium/status/1519349732283273216) received the best technical poster award at NDSS 2022.
+
+<span style="color:blue">February 2022:</span> Our poster on ["Detecting Misinformation about Zoom’s Security and Privacy Threats"](https://uta.engineering/scrf/presentations.php) received the best project/poster demo award ar SCRF 2022.
+
+
 
 
 Contact
