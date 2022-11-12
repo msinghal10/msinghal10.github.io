@@ -37,7 +37,9 @@ Recent News
 <span style="color:blue">February 2022:</span> Our poster on ["Detecting Misinformation about Zoom’s Security and Privacy Threats"](https://uta.engineering/scrf/presentations.php) received the best project/poster demo award at SCRF 2022.
 
 
-
+CV
+======
+My current [CV](https://msinghal10.github.io/Resume/)
 
 Contact
 ------
