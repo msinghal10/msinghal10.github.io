@@ -26,7 +26,7 @@ Publications
 
 Recent News
 ======
-<span style="color:blue">October 2022:</span> I will be teaching CSE4380 in Spring 2023.
+<span style="color:blue">October 2022:</span> I will be teaching CSE4380 in Spring 2023. Draft of the [Syllabus](http://msinghal10.github.io/files/CSE-4380-2023Spring-Syllabus.pdf)
 
 <span style="color:blue">October 2022:</span> I received "The Outstanding TA Award" at [UTA CSE Mouser Electronics Awards Banquet](https://www.facebook.com/cseutarlington/photos/a.8170724059667577/8170653603007956).
 
