@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year Ph.D. candidate in the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. My Ph.D. advisor is [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"}. 
+I'm a fourth-year Ph.D. candidate in the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. My Ph.D. advisor is [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"}. I work in the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"}.
 
 
 
