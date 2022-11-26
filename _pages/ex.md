@@ -20,7 +20,7 @@ STEM Graduate Research Assistant
 <span style="color:blue">Spring 2022:</span> Worked on algorithmic fariness of Yelp Recommendation system. Project funded by [NSF "III: Medium: Collaborative Research: Fairness in Web Database Applications"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107290)
 
 
-Graduate Teaching Assistant
+STEM Graduate Teaching Assistant
 ======
 
 <span style="color:blue">Fall 2022:</span> Information Security I (CSE 4380)
