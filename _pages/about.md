@@ -27,9 +27,12 @@ Publications
 Preprints
 ======
 
+Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.
+
 **Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. arXiv preprint [arXiv:2206.14855](https://arxiv.org/pdf/2206.14855.pdf){:target="_blank"}.
 
 Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022). User Engagement and the Toxicity of Tweets. arXiv preprint [arXiv:2211.03856](https://arxiv.org/pdf/2211.03856.pdf){:target="_blank"}.
+
 
 Recent News
 ======
