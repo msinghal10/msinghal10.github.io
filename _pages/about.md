@@ -20,9 +20,10 @@ Publications
 ======
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. To appear in 17th International AAAI Conference on Web and Social Media [ICWSM 2023](https://arxiv.org/pdf/2110.12296.pdf){:target="_blank"}.
 
+**Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Poster: Detecting Misinformation about Zoom’s Security and Privacy Threats. In [NDSS 2022](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_25.pdf){:target="_blank"}. <span style="color:red">Recieved Best Technical Poster</span>
+
 **Singhal, M.**, & Levine, D. (2019, October). Analysis and categorization of drive-by download malware. In 2019 4th International Conference on Computing, Communications and Security (ICCCS) (pp. 1-4). IEEE.
 
-**Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Poster: Detecting Misinformation about Zoom’s Security and Privacy Threats. In [NDSS 2022](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_25.pdf){:target="_blank"}. <span style="color:red">Recieved Best Technical Poster</span>
 
 Preprints
 ======
