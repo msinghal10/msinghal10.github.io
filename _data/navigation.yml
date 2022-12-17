@@ -12,8 +12,8 @@ main:
   - title: "Experience"
     url: /experience/   
 
-  # - title: "Colloborator"
-  #   url: /colloborator/
+  - title: "Colloborator"
+    url: /colloborator/
     
   # - title: "Portfolio"
   #   url: /portfolio/
