@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Colloborator"
+# title: "Colloborator"
 permalink: /colloborator/
 author_profile: true
 ---
