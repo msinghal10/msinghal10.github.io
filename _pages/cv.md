@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 My current [CV](https://msinghal10.github.io/Resume/){:target="_blank"}
-<iframe
-    src="http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&navpanes=0&scrollbar=0"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></iframe>
+<object data="https://msinghal10.github.io/Resume/Mohit-Singhal-CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://msinghal10.github.io/Resume/Mohit-Singhal-CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
