@@ -48,10 +48,6 @@ Recent News
 <span style="color:blue">February 2022:</span> Our poster on ["Detecting Misinformation about Zoom’s Security and Privacy Threats"](https://uta.engineering/scrf/presentations.php){:target="_blank"} received the best project/poster demo award at SCRF 2022.
 
 
-CV
-======
-My current [CV](https://msinghal10.github.io/Resume/){:target="_blank"}
-
 Contact
 ------
 The best way to reach me is via email: mohit [dot] singhal [at] mavs [dot] uta [dot] edu
