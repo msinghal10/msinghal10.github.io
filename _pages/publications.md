@@ -17,6 +17,8 @@ author_profile: true
 <!-- Publications
 ====== -->
 
+**Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. To appear in 8th IEEE European Symposium on Security and Privacy [EuroS&P 2023](https://arxiv.org/pdf/2206.14855.pdf){:target="_blank"}.
+
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. To appear in 17th International AAAI Conference on Web and Social Media [ICWSM 2023](https://arxiv.org/pdf/2110.12296.pdf){:target="_blank"}.
 
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Poster: Detecting Misinformation about Zoom’s Security and Privacy Threats. In [NDSS 2022](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_25.pdf){:target="_blank"}. <span style="color:red">Recieved Best Technical Poster</span>

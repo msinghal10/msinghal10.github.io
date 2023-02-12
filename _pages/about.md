@@ -18,6 +18,8 @@ My current research interest include social computing, data-driven fact checking
 
 Publications
 ======
+**Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. To appear in 8th IEEE European Symposium on Security and Privacy [EuroS&P 2023](https://arxiv.org/pdf/2206.14855.pdf){:target="_blank"}.
+
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. To appear in 17th International AAAI Conference on Web and Social Media [ICWSM 2023](https://arxiv.org/pdf/2110.12296.pdf){:target="_blank"}.
 
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Poster: Detecting Misinformation about Zoom’s Security and Privacy Threats. In [NDSS 2022](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_25.pdf){:target="_blank"}. <span style="color:red">Recieved Best Technical Poster</span>
@@ -37,11 +39,14 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 
 Recent News
 ======
+
+<span style="color:blue">February 2023:</span> Our paper titled ["SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice"](https://arxiv.org/pdf/2206.14855.pdf){:target="_blank"} got accepted to EuroS&P 2023.
+
 <span style="color:blue">October 2022:</span> I will be teaching CSE4380 in Spring 2023. Draft of the [Syllabus](http://msinghal10.github.io/files/CSE-4380-2023Spring-Syllabus.pdf){:target="_blank"}.
 
 <span style="color:blue">October 2022:</span> I received "The Outstanding TA Award" at The [UTA CSE Mouser Electronics Awards Banquet](https://www.facebook.com/cseutarlington/photos/a.8170724059667577/8170653603007956){:target="_blank"}.
 
-<span style="color:blue">August 2022:</span> Our paper on ["Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom's Threats"](https://arxiv.org/pdf/2110.12296.pdf){:target="_blank"} got accepted to ICWSM 2023.
+<span style="color:blue">August 2022:</span> Our paper titled ["Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom's Threats"](https://arxiv.org/pdf/2110.12296.pdf){:target="_blank"} got accepted to ICWSM 2023.
 
 <span style="color:blue">April 2022:</span> Our poster on ["Detecting Misinformation about Zoom’s Security and Privacy Threats"](https://twitter.com/NDSSSymposium/status/1519349732283273216){:target="_blank"} received the best technical poster award at NDSS 2022.
 
