@@ -32,13 +32,15 @@ Preprints
 
 Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.
 
-**Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. arXiv preprint [arXiv:2206.14855](https://arxiv.org/pdf/2206.14855.pdf){:target="_blank"}.
-
 Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022). User Engagement and the Toxicity of Tweets. arXiv preprint [arXiv:2211.03856](https://arxiv.org/pdf/2211.03856.pdf){:target="_blank"}.
 
 
 Recent News
 ======
+
+<span style="color:blue">February 2023:</span> My Research Lightning talk on Detecting Misinformation about Zoom’s Security and Privacy Threats recieved the Best Ph.D. Lightning Talk Runner-Up award at SCRF 2023.
+
+<span style="color:blue">February 2023:</span> Our poster on Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice received the Best Project Presentation & Demo Runner-Up award at SCRF 2023.
 
 <span style="color:blue">February 2023:</span> Our paper titled ["SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice"](https://arxiv.org/pdf/2206.14855.pdf){:target="_blank"} got accepted to EuroS&P 2023.
 
