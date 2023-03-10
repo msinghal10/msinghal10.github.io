@@ -38,6 +38,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue">March 2023:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in *AMICUS CURIAE BRIEF* submitted in The Supreme Cout case [Gonzalez v. Google LLC](https://www.supremecourt.gov/DocketPDF/21/21-1333/252575/20230119091316985_Amicus%20Brief%20Developers%20Alliance.pdf){:target="_blank"}.
+
 <span style="color:blue">February 2023:</span> My Research Lightning talk on Detecting Misinformation about Zoom’s Security and Privacy Threats recieved the Best Ph.D. Lightning Talk Runner-Up award at SCRF 2023.
 
 <span style="color:blue">February 2023:</span> Our poster on Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice received the Best Project Presentation & Demo Runner-Up award at SCRF 2023.
