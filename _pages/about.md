@@ -38,7 +38,7 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
-<span style="color:blue">March 2023:</span> Serving on the 16th Workshop on Cybersecurity Experimentation and Test Workshop (CSET 2023) program committee. 
+<span style="color:blue">March 2023:</span> Serving on the 16th Workshop on Cybersecurity Experimentation and Test Workshop (CSET 2023) [program committee](https://cset23.isi.edu/about.html){:target="_blank"}. 
 
 <span style="color:blue">March 2023:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in *AMICUS CURIAE BRIEF* submitted in The Supreme Court case [Gonzalez v. Google LLC](https://www.supremecourt.gov/DocketPDF/21/21-1333/252575/20230119091316985_Amicus%20Brief%20Developers%20Alliance.pdf){:target="_blank"}.
 
