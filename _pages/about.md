@@ -20,11 +20,11 @@ Publications
 ======
 **Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. To appear in 8th IEEE European Symposium on Security and Privacy [EuroS&P 2023](https://arxiv.org/pdf/2206.14855.pdf){:target="_blank"}.
 
-**Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. To appear in 17th International AAAI Conference on Web and Social Media [ICWSM 2023](https://arxiv.org/pdf/2110.12296.pdf){:target="_blank"}.
+**Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. In 17th International AAAI Conference on Web and Social Media [ICWSM 2023](https://ojs.aaai.org/index.php/ICWSM/article/view/22189/21968){:target="_blank"}.
 
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Poster: Detecting Misinformation about Zoom’s Security and Privacy Threats. In [NDSS 2022](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_25.pdf){:target="_blank"}. <span style="color:red">Recieved Best Technical Poster</span>
 
-**Singhal, M.**, & Levine, D. (2019, October). Analysis and categorization of drive-by download malware. In 2019 4th International Conference on Computing, Communications and Security (ICCCS) (pp. 1-4). IEEE.
+**Singhal, M.**, & Levine, D. (2019, October). Analysis and categorization of drive-by download malware. In 2019 4th International Conference on Computing, Communications and Security [ICCCS](https://ieeexplore.ieee.org/abstract/document/8888147){:target="_blank"}.
 
 
 Preprints
@@ -37,6 +37,12 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 
 Recent News
 ======
+
+<span style="color:blue">June 2023:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in the official report submitted to The Committee on Civil Liberties, Justice and Home Affairs in [European Union](https://www.europarl.europa.eu/RegData/etudes/STUD/2023/743400/IPOL_STU(2023)743400_EN.pdf){:target="_blank"}.
+
+<span style="color:blue">May 2023:</span> I will be a GRA for NSF funded project in the Summer of 2023.
+
+<span style="color:blue">April 2023:</span> I will be teaching CSE4380 in Fall 2023.
 
 <span style="color:blue">March 2023:</span> Serving on the 16th Workshop on Cybersecurity Experimentation and Test Workshop (CSET 2023) [program committee](https://cset23.isi.edu/about.html){:target="_blank"}. 
 

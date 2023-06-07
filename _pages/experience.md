@@ -21,6 +21,8 @@ Instructor
 STEM Graduate Research Assistant
 ======
 
+<span style="color:blue">Summer 2023:</span> Working on algorithmic fariness of Yelp Recommendation system. Project funded by [NSF "III: Medium: Collaborative Research: Fairness in Web Database Applications"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107290)
+
 <span style="color:blue">Spring 2022:</span> Worked on algorithmic fariness of Yelp Recommendation system. Project funded by [NSF "III: Medium: Collaborative Research: Fairness in Web Database Applications"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107290)
 
 
