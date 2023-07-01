@@ -38,6 +38,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue">July 2023:</span> I received the student travel grant for Euro S&P 2023. Thanks S&P!!!
+
 <span style="color:blue">June 2023:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in the official report submitted to The Committee on Civil Liberties, Justice and Home Affairs in [European Union](https://www.europarl.europa.eu/RegData/etudes/STUD/2023/743400/IPOL_STU(2023)743400_EN.pdf){:target="_blank"}.
 
 <span style="color:blue">May 2023:</span> I will be a GRA for NSF funded project in the Summer of 2023.
