@@ -44,6 +44,6 @@ STEM Graduate Teaching Assistant
 
 <span style="color:blue">Fall 2019:</span> Information Security I (CSE 4380)
 
-<span style="color:blue">Spring 2018:</span> Information Security I (CSE 4380/5380)
+<span style="color:blue">Spring 2019:</span> Information Security I (CSE 4380/5380)
 
 <span style="color:blue">Fall 2018:</span> Information Security I (CSE 4380)
