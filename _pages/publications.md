@@ -29,6 +29,8 @@ author_profile: true
 Preprints
 ======
 
+Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2023). Impact of Stricter Content Moderation on Parler's Users' Discourse. arXiv preprint [   arXiv:2310.08844](https://arxiv.org/pdf/2310.08844.pdf){:target="_blank"}.
+
 **Singhal, M.**, Pacheco, J., Debi, T., Khorzooghi, S. M. S. M., Asudeh, A., Das, G., & Nilizadeh, S. (2023). Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness. arXiv preprint [arXiv:2308.02129](https://arxiv.org/pdf/2308.02129.pdf){:target="_blank"}.
 
 Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.

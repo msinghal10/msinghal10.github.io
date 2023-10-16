@@ -29,6 +29,7 @@ Publications
 
 Preprints
 ======
+Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2023). Impact of Stricter Content Moderation on Parler's Users' Discourse. arXiv preprint [   arXiv:2310.08844](https://arxiv.org/pdf/2310.08844.pdf){:target="_blank"}.
 
 **Singhal, M.**, Pacheco, J., Debi, T., Khorzooghi, S. M. S. M., Asudeh, A., Das, G., & Nilizadeh, S. (2023). Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness. arXiv preprint [arXiv:2308.02129](https://arxiv.org/pdf/2308.02129.pdf){:target="_blank"}.
 
@@ -39,6 +40,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 
 Recent News
 ======
+
+<span style="color:blue">October 2023:</span> My Research Lightning talk on SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice recieved the Audience Choice Award in the Ph.D. Lightning Talk event held at The 50th Anniversary of The Computer Science and Engineering department at The University of Texas at Arlington.
 
 <span style="color:blue">July 2023:</span> I received the student travel grant for Euro S&P 2023. Thanks S&P!!!
 
