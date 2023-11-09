@@ -14,6 +14,8 @@ author_profile: true
 Instructor
 ======
 
+<span style="color:blue">Spring 2024:</span> Information Security I (CSE 4380)
+
 <span style="color:blue">Fall 2023:</span> Information Security I (CSE 4380)
 
 <span style="color:blue">Spring 2023:</span> Information Security I (CSE 4380)
