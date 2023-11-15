@@ -41,6 +41,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue">November 2023:</span> I passed my Dissertation Proposal Defense. 
+
 <span style="color:blue">November 2023:</span> I will be teaching CSE4380 in Spring 2024.
 
 <span style="color:blue">October 2023:</span> My Research Lightning talk on SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice recieved the Audience Choice Award in the Ph.D. Lightning Talk event held at The 50th Anniversary of The Computer Science and Engineering department at The University of Texas at Arlington.
