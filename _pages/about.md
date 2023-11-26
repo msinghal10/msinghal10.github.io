@@ -41,6 +41,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue">November 2023:</span> I am now a lifelong member of the UTA Texas Gamma Chapter of Upsilon Pi Epsilon.
+
 <span style="color:blue">November 2023:</span> I passed my Dissertation Proposal Defense. 
 
 <span style="color:blue">November 2023:</span> I will be teaching CSE4380 in Spring 2024.
