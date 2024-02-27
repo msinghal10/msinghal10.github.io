@@ -41,6 +41,10 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue">February 2024:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in *Amicus Curiae Brief* submitted in two seperate Supreme Court cases [NetChoice, LLC v. Paxton] & [Moody v. NetChoice, LLC](https://www.supremecourt.gov/DocketPDF/22/22-277/292665/20231207144520368_22-277%20and%2022-555%20tsacDevelopersAllianceAndSIIA.pdf){:target="_blank"}.
+
+<span style="color:blue">February 2024:</span> Serving on the 17th Workshop on Cybersecurity Experimentation and Test Workshop (CSET 2024) [program committee](https://cset24.isi.edu/index.html){:target="_blank"}. 
+
 <span style="color:blue">November 2023:</span> I am now a lifelong member of the UTA Texas Gamma Chapter of Upsilon Pi Epsilon.
 
 <span style="color:blue">November 2023:</span> I passed my Dissertation Proposal Defense. 
@@ -59,7 +63,7 @@ Recent News
 
 <span style="color:blue">March 2023:</span> Serving on the 16th Workshop on Cybersecurity Experimentation and Test Workshop (CSET 2023) [program committee](https://cset23.isi.edu/about.html){:target="_blank"}. 
 
-<span style="color:blue">March 2023:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in *AMICUS CURIAE BRIEF* submitted in The Supreme Court case [Gonzalez v. Google LLC](https://www.supremecourt.gov/DocketPDF/21/21-1333/252575/20230119091316985_Amicus%20Brief%20Developers%20Alliance.pdf){:target="_blank"}.
+<span style="color:blue">March 2023:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in *Amicus Curiae Brief* submitted in The Supreme Court case [Gonzalez v. Google LLC](https://www.supremecourt.gov/DocketPDF/21/21-1333/252575/20230119091316985_Amicus%20Brief%20Developers%20Alliance.pdf){:target="_blank"}.
 
 <span style="color:blue">February 2023:</span> My Research Lightning talk on Detecting Misinformation about Zoom’s Security and Privacy Threats recieved the Best Ph.D. Lightning Talk Runner-Up award at SCRF 2023.
 
