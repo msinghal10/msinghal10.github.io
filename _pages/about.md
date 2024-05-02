@@ -41,6 +41,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue"> May 2024: I passed my Dissertation Defense.
+
 <span style="color:blue">February 2024:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in *Amicus Curiae Brief* submitted in two seperate Supreme Court cases [NetChoice, LLC v. Paxton] & [Moody v. NetChoice, LLC](https://www.supremecourt.gov/DocketPDF/22/22-277/292665/20231207144520368_22-277%20and%2022-555%20tsacDevelopersAllianceAndSIIA.pdf){:target="_blank"}.
 
 <span style="color:blue">February 2024:</span> Serving on the 17th Workshop on Cybersecurity Experimentation and Test Workshop (CSET 2024) [program committee](https://cset24.isi.edu/index.html){:target="_blank"}. 
