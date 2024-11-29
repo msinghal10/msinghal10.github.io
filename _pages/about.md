@@ -63,8 +63,6 @@ Recent News
 
 <span style="color:blue"> September 2024:</span> One paper accepted to IEEE S&P 2025.
 
-<span style="color:blue"> September 2024:</span> One paper accepted to IEEE S&P 2025.
-
 <span style="color:blue"> August 2024:</span> I started as Assistant Teaching Professor at Northeastern Univeristy.
 
 <span style="color:blue"> May 2024:</span> I passed my Dissertation Defense.
