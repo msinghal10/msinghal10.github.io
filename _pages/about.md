@@ -8,16 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth-year Ph.D. candidate in the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. My Ph.D. advisor is [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"}. I work in the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"}.
+I'm a Assistant Teaching Professor at [The Khoury College of Computer Science](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). I am a faculty affialiate of [The Northeastern Ethics Insititute](https://cssh.northeastern.edu/ethics/). I completed my Ph.D. under the supervision of [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. I was part of the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"} during my time at The University of Texas at Arlington. My work has earned distinguished honors, including the best technical poster awards at NDSS 2022. My research has been cited in official reports submitted to The US Supreme Court and the EU Committee on Civil Liberties, Justice, and Home Affairs. I have also served on numerous program committees for top international conferences and workshops on computer security, privacy, web, and social media.
+
+
+<!-- I'm a fifth-year Ph.D. candidate in the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. My Ph.D. advisor is [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"}. I work in the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"}. -->
 
 
 
 Research Interests
 ======
-My current research interest include social computing, data-driven fact checking, content moderation, data mining and algorithmic fairness. Currently I am working on algorithmic fairness of filtering tools employed by companies and ranking algorithm and examining how social media platforms moderate content and what are some of the key differences and also its impact on user discourse. Recent work includes detecting misinformation about security and privacy threats on social media. 
+My current research interest include social computing, data-driven fact checking, content moderation, data mining and algorithmic fairness and ethics. My research takes a highly interdisciplinary approach, integrating AI, NLP, social sciences, and ethics to address societal issues of social media and its broader implications. 
+
+<!-- Currently I am working on algorithmic fairness of filtering tools employed by companies and ranking algorithm and examining how social media platforms moderate content and what are some of the key differences and also its impact on user discourse. Recent work includes detecting misinformation about security and privacy threats on social media.  -->
+
+Research Keywords
+======
+Cybersecurity, Privacy, Social Media Analysis, Big Data Analytics, Machine Learning, Natural Language Processing, Content Moderation, Ethics of AI models
+
 
 Publications
 ======
+
+Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., \& Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society.}(\* Joint Co-First Authors)
+
+
+**Singhal, M.**, Pacheco, J., Khorzooghi, S. M. S. M., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2023). Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness. To appear in 19th International AAAI Conference on Web and Social Media, ICWSM 2025. arXiv preprint [arXiv:2308.02129](https://arxiv.org/pdf/2308.02129.pdf){:target="_blank"}.
+
+
 **Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. In 8th IEEE European Symposium on Security and Privacy, EuroS&P 2023. [{Paper}](https://ieeexplore.ieee.org/document/10190527){:target="_blank"}
 
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. In 17th International AAAI Conference on Web and Social Media, ICWSM 2023. [{Paper}](https://ojs.aaai.org/index.php/ICWSM/article/view/22189/21968){:target="_blank"} (<span style="color:red">18% acceptance rate</span>)
@@ -31,7 +48,6 @@ Preprints
 ======
 Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2023). Impact of Stricter Content Moderation on Parler's Users' Discourse. arXiv preprint [   arXiv:2310.08844](https://arxiv.org/pdf/2310.08844.pdf){:target="_blank"}. [\* Both authors contributed equally to this research]
 
-**Singhal, M.**, Pacheco, J., Debi, T., Khorzooghi, S. M. S. M., Asudeh, A., Das, G., & Nilizadeh, S. (2023). Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness. arXiv preprint [arXiv:2308.02129](https://arxiv.org/pdf/2308.02129.pdf){:target="_blank"}.
 
 Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.
 
@@ -41,7 +57,17 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
-<span style="color:blue"> May 2024: I passed my Dissertation Defense.
+<span style="color:blue"> November 2024:</span> Our paper titled ["Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness"](https://arxiv.org/pdf/2308.02129.pdf){:target="_blank"} got accepted to ICWSM 2025. 
+
+<span style="color:blue"> November 2024:</span> I am part of the Northeastern Ethics Institute.
+
+<span style="color:blue"> September 2024:</span> One paper accepted to IEEE S&P 2025.
+
+<span style="color:blue"> September 2024:</span> One paper accepted to IEEE S&P 2025.
+
+<span style="color:blue"> August 2024:</span> I started as Assistant Teaching Professor at Northeastern Univeristy.
+
+<span style="color:blue"> May 2024:</span> I passed my Dissertation Defense.
 
 <span style="color:blue">February 2024:</span> Our paper **SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice** was cited in *Amicus Curiae Brief* submitted in two seperate Supreme Court cases [NetChoice, LLC v. Paxton] & [Moody v. NetChoice, LLC](https://www.supremecourt.gov/DocketPDF/22/22-277/292665/20231207144520368_22-277%20and%2022-555%20tsacDevelopersAllianceAndSIIA.pdf){:target="_blank"}.
 
@@ -86,4 +112,4 @@ Recent News
 
 Contact
 ------
-The best way to reach me is via email: mohit [dot] singhal [at] mavs [dot] uta [dot] edu
+The best way to reach me is via email: m [dot] singhal [at] northeastern [dot] edu

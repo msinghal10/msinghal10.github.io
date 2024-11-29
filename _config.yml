@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Singhal"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate"
-  location         : "Arlington, TX"
-  employer         :
+  avatar           : "profile.jpg"
+  bio              : "Assistant Teaching Professor"
+  location         : "Boston, MA"
+  employer         : "Northeastern University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8MNR5Y8AAAAJ&hl=en"
-  email            :
+  email            : "m.singhal@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

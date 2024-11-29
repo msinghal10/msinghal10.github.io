@@ -11,9 +11,22 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+At Northeastern University
+====== 
+
+<span style="color:blue">Spring 2025:</span> DS 3000: Foundations of Data Science
+
+<span style="color:blue">Spring 2025:</span> CY 2550: Foundations of Cybersecurity
+
+<span style="color:blue">Fall 2024:</span> DS 3000: Foundations of Data Science 
+
+
+
+At The University of Texas at Arlington
+====== 
+
 Instructor
 ======
-<span style="color:blue">Fall 2023:</span> Information Security I (CSE 4380)
 
 <span style="color:blue">Spring 2023:</span> Information Security I (CSE 4380)
 
@@ -21,8 +34,6 @@ Instructor
 
 STEM Graduate Research Assistant
 ======
-
-<span style="color:blue">Summer 2023:</span> Working on algorithmic fariness of Yelp Recommendation system. Project funded by [NSF "III: Medium: Collaborative Research: Fairness in Web Database Applications"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107290)
 
 <span style="color:blue">Spring 2022:</span> Worked on algorithmic fariness of Yelp Recommendation system. Project funded by [NSF "III: Medium: Collaborative Research: Fairness in Web Database Applications"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107290)
 
@@ -44,6 +55,6 @@ STEM Graduate Teaching Assistant
 
 <span style="color:blue">Fall 2019:</span> Information Security I (CSE 4380)
 
-<span style="color:blue">Spring 2019:</span> Information Security I (CSE 4380/5380)
+<span style="color:blue">Spring 2018:</span> Information Security I (CSE 4380/5380)
 
 <span style="color:blue">Fall 2018:</span> Information Security I (CSE 4380)
