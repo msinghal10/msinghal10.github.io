@@ -29,7 +29,7 @@ Cybersecurity, Privacy, Social Media Analysis, Big Data Analytics, Machine Learn
 Publications
 ======
 
-Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., \& Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society.}(\* Joint Co-First Authors)
+Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors)
 
 
 **Singhal, M.**, Pacheco, J., Khorzooghi, S. M. S. M., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2023). Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness. To appear in 19th International AAAI Conference on Web and Social Media, ICWSM 2025. arXiv preprint [arXiv:2308.02129](https://arxiv.org/pdf/2308.02129.pdf){:target="_blank"}.
