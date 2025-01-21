@@ -29,6 +29,8 @@ Cybersecurity, Privacy, Social Media Analysis, Big Data Analytics, Machine Learn
 Publications
 ======
 
+Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025). Casual Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. To appear in The ACM Web Conference, WWW 2025 . (\* Joint Co-First Authors)
+
 Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors)
 
 
@@ -46,8 +48,6 @@ Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Lear
 
 Preprints
 ======
-Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2023). Impact of Stricter Content Moderation on Parler's Users' Discourse. arXiv preprint [   arXiv:2310.08844](https://arxiv.org/pdf/2310.08844.pdf){:target="_blank"}. [\* Both authors contributed equally to this research]
-
 
 Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.
 
@@ -57,11 +57,13 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue"> January 2025:</span> Our paper titled "Casual Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality" got accepted to WWW 2025.
+
 <span style="color:blue"> November 2024:</span> Our paper titled ["Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness"](https://arxiv.org/pdf/2308.02129.pdf){:target="_blank"} got accepted to ICWSM 2025. 
 
 <span style="color:blue"> November 2024:</span> I am part of the Northeastern Ethics Institute.
 
-<span style="color:blue"> September 2024:</span> One paper accepted to IEEE S&P 2025.
+<span style="color:blue"> September 2024:</span> Our paper titled "Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies" got accepted to IEEE S&P 2025.
 
 <span style="color:blue"> August 2024:</span> I started as Assistant Teaching Professor at Northeastern University.
 

@@ -17,6 +17,8 @@ author_profile: true
 <!-- Publications
 ====== -->
 
+Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025). Casual Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. To appear in The ACM Web Conference, WWW 2025 . (\* Joint Co-First Authors)
+
 Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors)
 
 
@@ -34,8 +36,6 @@ Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Lear
 
 Preprints
 ======
-
-Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2023). Impact of Stricter Content Moderation on Parler's Users' Discourse. arXiv preprint [   arXiv:2310.08844](https://arxiv.org/pdf/2310.08844.pdf){:target="_blank"}.
 
 Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.
 
