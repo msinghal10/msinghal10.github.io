@@ -10,6 +10,8 @@ redirect_from:
 At Northeastern University
 ====== 
 
+<span style="color:blue">Fall 2025:</span> DS 3000: Foundations of Data Science
+
 <span style="color:blue">Spring 2025:</span> DS 3000: Foundations of Data Science
 
 <span style="color:blue">Spring 2025:</span> CY 2550: Foundations of Cybersecurity

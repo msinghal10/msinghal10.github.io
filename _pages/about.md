@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Assistant Teaching Professor at [The Khoury College of Computer Science](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). I am a faculty affialiate of [The Northeastern Ethics Insititute](https://cssh.northeastern.edu/ethics/). I completed my Ph.D. under the supervision of [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. I was part of the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"} during my time at The University of Texas at Arlington. My work has earned distinguished honors, including the best technical poster awards at NDSS 2022. My research has been cited in official reports submitted to The US Supreme Court and the EU Committee on Civil Liberties, Justice, and Home Affairs. I have also served on numerous program committees for top international conferences and workshops on computer security, privacy, web, and social media.
-
-
-<!-- I'm a fifth-year Ph.D. candidate in the [Computer Science and Engineering Department](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. My Ph.D. advisor is [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"}. I work in the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"}. -->
-
-
+I'm a Research Active Assistant Teaching Professor at [The Khoury College of Computer Science](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). I am a faculty affialiate of [The Northeastern Ethics Insititute](https://cssh.northeastern.edu/ethics/). I completed my Ph.D. under the supervision of [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. I was part of the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"} during my time at The University of Texas at Arlington. My work has earned distinguished honors, including the best technical poster awards at NDSS 2022. My research has been cited in official reports submitted to The US Supreme Court and the EU Committee on Civil Liberties, Justice, and Home Affairs. I have also served on numerous program committees for top international conferences and workshops on computer security, privacy, web, and social media.
 
 Research Interests
 ======
 My current research interest include social computing, data-driven fact checking, content moderation, data mining and algorithmic fairness and ethics. My research takes a highly interdisciplinary approach, integrating AI, NLP, social sciences, and ethics to address societal issues of social media and its broader implications. 
 
-<!-- Currently I am working on algorithmic fairness of filtering tools employed by companies and ranking algorithm and examining how social media platforms moderate content and what are some of the key differences and also its impact on user discourse. Recent work includes detecting misinformation about security and privacy threats on social media.  -->
 
 Research Keywords
 ======
@@ -29,13 +23,11 @@ Cybersecurity, Privacy, Social Media Analysis, Big Data Analytics, Machine Learn
 Publications
 ======
 
-Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025). Casual Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. To appear in The ACM Web Conference, WWW 2025 . (\* Joint Co-First Authors)
+Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025, April). Causal Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. In Proceedings of the ACM on Web Conference 2025 (pp. 3762-3771). (\* Joint Co-First Authors)
 
 Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors) 
 
-
-**Singhal, M.**, Pacheco, J., Khorzooghi, S. M. S. M., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2023). Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness. To appear in 19th International AAAI Conference on Web and Social Media, ICWSM 2025. arXiv preprint [arXiv:2308.02129](https://arxiv.org/pdf/2308.02129.pdf){:target="_blank"}.
-
+**Singhal, M.**, Pacheco, J., Moosavi Khorzooghi, S. M. S., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2025). Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 1798-1816.
 
 **Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. In 8th IEEE European Symposium on Security and Privacy, EuroS&P 2023. [{Paper}](https://ieeexplore.ieee.org/document/10190527){:target="_blank"}
 
@@ -49,6 +41,8 @@ Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Lear
 Preprints
 ======
 
+Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2025). FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods. arXiv preprint [arXiv:2503.08731](https://arxiv.org/pdf/2503.08731).
+
 Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.
 
 Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022). User Engagement and the Toxicity of Tweets. arXiv preprint [arXiv:2211.03856](https://arxiv.org/pdf/2211.03856.pdf){:target="_blank"}.
@@ -56,6 +50,10 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 
 Recent News
 ======
+
+<span style="color:blue"> June 2025:</span> I will be serving on the Program committee for AsiaCCS 2026 for the Machine Learning and Security track. 
+
+<span style="color:blue"> March 2025:</span> I have been appointed as a Research Active Assistant Teaching Professor. Thanks Khoury!!
 
 <span style="color:blue"> January 2025:</span> Our paper titled "Casual Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality" got accepted to WWW 2025.
 
