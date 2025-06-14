@@ -29,7 +29,7 @@ Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Lear
 
 **Singhal, M.**, Pacheco, J., Moosavi Khorzooghi, S. M. S., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2025). Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 1798-1816. [{Paper}](https://ojs.aaai.org/index.php/ICWSM/article/view/35902/38056){:target="_blank"}
 
-**Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. In 8th IEEE European Symposium on Security and Privacy, EuroS&P 2023. [{Paper}](https://ieeexplore.ieee.org/document/10190527){:target="_blank"}
+**Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. In 8th IEEE European Symposium on Security and Privacy, EuroS&P 2023. [{Paper}](https://ieeexplore.ieee.org/document/10190527){:target="_blank"} (<span style="color:red">22% acceptance rate</span>)
 
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. In 17th International AAAI Conference on Web and Social Media, ICWSM 2023. [{Paper}](https://ojs.aaai.org/index.php/ICWSM/article/view/22189/21968){:target="_blank"} (<span style="color:red">18% acceptance rate</span>)
 
