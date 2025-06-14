@@ -19,7 +19,7 @@ author_profile: true
 
 Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025, April). Causal Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. In Proceedings of the ACM on Web Conference 2025 (pp. 3762-3771). (\* Joint Co-First Authors) [ACM WWW 2025](https://dl.acm.org/doi/pdf/10.1145/3696410.3714865){:target="_blank"}.
 
-Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors) [IEEE S\&P 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a062/21B7R7E8URG){:target="_blank"}.
+Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors) [IEEE S&P 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a062/21B7R7E8URG){:target="_blank"}.
 
 **Singhal, M.**, Pacheco, J., Moosavi Khorzooghi, S. M. S., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2025). Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 1798-1816. [ICWSM 2025](https://ojs.aaai.org/index.php/ICWSM/article/view/35902/38056){:target="_blank"}.
 
