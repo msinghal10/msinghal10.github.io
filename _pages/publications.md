@@ -17,14 +17,13 @@ author_profile: true
 <!-- Publications
 ====== -->
 
-Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025, April). Causal Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. In Proceedings of the ACM on Web Conference 2025 (pp. 3762-3771). (\* Joint Co-First Authors)
+Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025, April). Causal Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. In Proceedings of the ACM on Web Conference 2025 (pp. 3762-3771). (\* Joint Co-First Authors) [ACM WWW 2025](https://dl.acm.org/doi/pdf/10.1145/3696410.3714865){:target="_blank"}.
 
-Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors)
+Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors) [IEEE S\&P 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a062/21B7R7E8URG){:target="_blank"}.
 
+**Singhal, M.**, Pacheco, J., Moosavi Khorzooghi, S. M. S., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2025). Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 1798-1816. [ICWSM 2025](https://ojs.aaai.org/index.php/ICWSM/article/view/35902/38056){:target="_blank"}.
 
-**Singhal, M.**, Pacheco, J., Moosavi Khorzooghi, S. M. S., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2025). Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 1798-1816. 
-
-**Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. In 8th IEEE European Symposium on Security and Privacy [EuroS&P 2023](https://ieeexplore.ieee.org/document/10190527){:target="_blank"}.
+**Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. In 8th IEEE European Symposium on Security and Privacy [IEEE EuroS&P 2023](https://ieeexplore.ieee.org/document/10190527){:target="_blank"}.
 
 **Singhal, M.**, Kumarswamy, N., Kinhekar, S., & Nilizadeh, S. (2021). Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom’s Threats. In 17th International AAAI Conference on Web and Social Media [ICWSM 2023](https://ojs.aaai.org/index.php/ICWSM/article/view/22189/21968){:target="_blank"}.
 

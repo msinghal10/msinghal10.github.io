@@ -23,11 +23,11 @@ Cybersecurity, Privacy, Social Media Analysis, Big Data Analytics, Machine Learn
 Publications
 ======
 
-Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025, April). Causal Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. In Proceedings of the ACM on Web Conference 2025 (pp. 3762-3771). (\* Joint Co-First Authors)
+Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025, April). Causal Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. In Proceedings of the ACM on Web Conference 2025 (pp. 3762-3771). (\* Joint Co-First Authors) [{Paper}](https://dl.acm.org/doi/pdf/10.1145/3696410.3714865){:target="_blank"} (<span style="color:red">19.8% acceptance rate</span>)
 
-Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors) 
+Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies. In 2025 IEEE Symposium on Security and Privacy (SP) (pp. 62-62). IEEE Computer Society. (\* Joint Co-First Authors) [{Paper}](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a062/21B7R7E8URG){:target="_blank"} (<span style="color:red">14.8% acceptance rate</span>)
 
-**Singhal, M.**, Pacheco, J., Moosavi Khorzooghi, S. M. S., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2025). Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 1798-1816.
+**Singhal, M.**, Pacheco, J., Moosavi Khorzooghi, S. M. S., Debi, T., Asudeh, A., Das, G., & Nilizadeh, S. (2025). Auditing Yelp’s Business Ranking and Review Recommendation Through the Lens of Fairness. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 1798-1816. [{Paper}](https://ojs.aaai.org/index.php/ICWSM/article/view/35902/38056){:target="_blank"}
 
 **Singhal, M.**, Ling, C., Paudel, P., Thota, P., Kumarswamy, N., Stringhini, G., & Nilizadeh, S. (2022). SoK: Content Moderation in Social Media, from Guidelines to Enforcement, and Research to Practice. In 8th IEEE European Symposium on Security and Privacy, EuroS&P 2023. [{Paper}](https://ieeexplore.ieee.org/document/10190527){:target="_blank"}
 
