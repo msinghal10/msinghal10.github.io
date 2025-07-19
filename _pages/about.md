@@ -51,6 +51,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue"> July 2025:</span> Our poster titled "FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods" has been accepted to USENIX Security 2025.
+
 <span style="color:blue"> July 2025:</span> I will be serving as a mentor for the IJCNLP-AACL 2025 Student Research Workshop (SRW).
 
 <span style="color:blue"> June 2025:</span> I will be serving on the Program committee for AsiaCCS 2026 for the Machine Learning and Security track. 
