@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Active Assistant Teaching Professor at [The Khoury College of Computer Science](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). I am a faculty affialiate of [The Northeastern Ethics Insititute](https://cssh.northeastern.edu/ethics/). I completed my Ph.D. under the supervision of [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. I was part of the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"} during my time at The University of Texas at Arlington. My work has earned distinguished honors, including the best technical poster awards at NDSS 2022. My research has been cited in official reports submitted to The US Supreme Court and the EU Committee on Civil Liberties, Justice, and Home Affairs. I have also served on numerous program committees for top international conferences and workshops on computer security, privacy, web, and social media.
+I'm a Research Active Assistant Teaching Professor at [The Khoury College of Computer Science](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). I am a faculty affialiate of [The Northeastern Ethics Insititute](https://cssh.northeastern.edu/ethics/). I completed my Ph.D. under the supervision of [Dr. Shirin Nilizadeh](https://www.uta.edu/academics/faculty/profile?username=nilizadehs){:target="_blank"} at [The University of Texas at Arlington](https://www.uta.edu/){:target="_blank"}. I was part of the [Security and Privacy Research Lab](https://sprlab.uta.edu/){:target="_blank"} during my time at The University of Texas at Arlington. My work has been published in IEEE S&P, NDSS, ACM WWW, ICWSM etc. My work has earned distinguished honors, including the best technical poster awards at NDSS 2022. My research has been cited in official reports submitted to The US Supreme Court and the EU Committee on Civil Liberties, Justice, and Home Affairs. I have also served on numerous program committees for top international conferences and workshops on computer security, privacy, web, and social media.
 
 Research Interests
 ======
@@ -50,6 +50,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 
 Recent News
 ======
+
+<span style="color:blue"> August 2025:</span> Serving as CS/DS Advisor for [MedCS Lab](https://medcs-lab-nu.vercel.app/){:target="_blank"}.
 
 <span style="color:blue"> July 2025:</span> Our poster titled "FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods" has been accepted to USENIX Security 2025.
 
