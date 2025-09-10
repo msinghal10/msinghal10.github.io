@@ -23,6 +23,8 @@ Cybersecurity, Privacy, Social Media Analysis, Big Data Analytics, Machine Learn
 Publications
 ======
 
+PettyJohn, M. E., Cary, K. M., Dandekar, S., **Singhal, M.**, Nilizadeh, S., & Voth Schrag, R. (2026, January). Characteristics of technology-facilitated abuse and safety strategies discussed in the Reddit community, r/stalking. [Poster]. Society for Social Work and Research, Washington, D.C.
+
 Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2025, August). [Poster] FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods. In USENIX Security 2025.
 
 Kumarswamy, N.\*, **Singhal, M.**\*, & Nilizadeh, S. (2025, April). Causal Insights into Parler's Content Moderation Shift: Effects on Toxicity and Factuality. In Proceedings of the ACM on Web Conference 2025 (pp. 3762-3771). (\* Joint Co-First Authors) [{Paper}](https://dl.acm.org/doi/pdf/10.1145/3696410.3714865){:target="_blank"} (<span style="color:red">19.8% acceptance rate</span>)
@@ -52,6 +54,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 
 Recent News
 ======
+
+<span style="color:blue"> September 2025:</span> Our poster titled "Characteristics of technology-facilitated abuse and safety strategies discussed in the Reddit community, r/stalking" has been accepted to Society for Social Work and Research Conference 2026.
 
 <span style="color:blue"> August 2025:</span> Serving as CS/DS Advisor for [MedCS Lab](https://medcs-lab-nu.vercel.app/){:target="_blank"}.
 
