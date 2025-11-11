@@ -55,6 +55,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue"> November 2025:</span> My Dialogue of Civilization proposal titled "Data and Moderation of Content in the European Union and its Implications" has been accepted. Excited to spend my upcoming Summer in Germany. [DOC: Link](https://goglobal.northeastern.edu/_portal/tds-program-brochure?programid=10837){:target="_blank"}.
+
 <span style="color:blue"> October 2025:</span> I am part of The NULab for Digital Humanities and Computational Social Science.
 
 <span style="color:blue"> September 2025:</span> Our poster titled "Characteristics of technology-facilitated abuse and safety strategies discussed in the Reddit community, r/stalking" has been accepted to Society for Social Work and Research Conference 2026.
