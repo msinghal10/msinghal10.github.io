@@ -23,6 +23,8 @@ Cybersecurity, Privacy, Social Media Analysis, Big Data Analytics, Machine Learn
 Publications
 ======
 
+Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2026, June). Unequal Privacy: Auditing Demographic Bias Vulnerabilities in Visual Protection Systems. To appear in Asia CCS 2026.
+
 PettyJohn, M. E., Cary, K. M., Dandekar, S., **Singhal, M.**, Nilizadeh, S., & Voth Schrag, R. (2026, January). Characteristics of technology-facilitated abuse and safety strategies discussed in the Reddit community, r/stalking. [Poster]. Society for Social Work and Research, Washington, D.C.
 
 Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2025, August). [Poster] FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods. In USENIX Security 2025.
@@ -54,6 +56,8 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 
 Recent News
 ======
+
+<span style="color:blue"> November 2025:</span> Our paper titled "Unequal Privacy: Auditing Demographic Bias Vulnerabilities in Visual Protection Systems" has been accepted to Asia CCS 2026.
 
 <span style="color:blue"> November 2025:</span> My Dialogue of Civilization proposal titled "Data and Moderation of Content in the European Union and its Implications" has been accepted. Excited to spend my upcoming Summer in Germany. [DOC: Link](https://goglobal.northeastern.edu/_portal/tds-program-brochure?programid=10837){:target="_blank"}.
 

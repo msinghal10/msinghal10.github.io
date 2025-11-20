@@ -17,6 +17,8 @@ author_profile: true
 <!-- Publications
 ====== -->
 
+Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2026, June). Unequal Privacy: Auditing Demographic Bias Vulnerabilities in Visual Protection Systems. To appear in Asia CCS 2026.
+
 PettyJohn, M. E., Cary, K. M., Dandekar, S., **Singhal, M.**, Nilizadeh, S., & Voth Schrag, R. (2026, January). Characteristics of technology-facilitated abuse and safety strategies discussed in the Reddit community, r/stalking. [Poster]. Society for Social Work and Research, Washington, D.C.
 
 Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2025, August). [Poster] FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods. In USENIX Security 2025.
