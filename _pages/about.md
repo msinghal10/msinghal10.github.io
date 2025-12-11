@@ -57,6 +57,9 @@ Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022)
 Recent News
 ======
 
+<span style="color:blue"> December 2025:</span> I was recently awarded the Khoury Teaching Faculty Research Seed Grant Program, for the proposal titled "Fear Mongering on TikTok Platforms: Characterizing Health and Nutrition Misinformation" (PI, $15,000), Co-PI Divya Chaudhary (Northeastern University).
+
+
 <span style="color:blue"> November 2025:</span> Our paper titled "Unequal Privacy: Auditing Demographic Bias Vulnerabilities in Visual Protection Systems" has been accepted to Asia CCS 2026.
 
 <span style="color:blue"> November 2025:</span> My Dialogue of Civilization proposal titled "Data and Moderation of Content in the European Union and its Implications" has been accepted. Excited to spend my upcoming Summer in Germany. [DOC: Link](https://goglobal.northeastern.edu/_portal/tds-program-brochure?programid=10837){:target="_blank"}.
@@ -68,6 +71,9 @@ Recent News
 <span style="color:blue"> August 2025:</span> Serving as CS/DS Advisor for [MedCS Lab](https://medcs-lab-nu.vercel.app/){:target="_blank"}.
 
 <span style="color:blue"> July 2025:</span> Our poster titled "FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods" has been accepted to USENIX Security 2025.
+
+<span style="color:blue"> July 2025:</span> I will be serving as a member of the steering committee for Eighth International Conference
+on Image Information Processing (ICIIP -2025).
 
 <span style="color:blue"> July 2025:</span> I will be serving as a mentor for the IJCNLP-AACL 2025 Student Research Workshop (SRW).
 
