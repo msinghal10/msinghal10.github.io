@@ -23,6 +23,8 @@ Cybersecurity, Privacy, Social Media Analysis, Big Data Analytics, Machine Learn
 Publications
 ======
 
+Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2026, June). The Power of Social Norms: How Initial Responses to Toxicity Shape Conversations on Twitter. To appear in the 7th International Workshop on Cyber Social Threats (CySoc) at the International Conference on Web and Social Media (ICWSM 2026).
+
 Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2026, June). Unequal Privacy: Auditing Demographic Bias Vulnerabilities in Visual Protection Systems. To appear in Asia CCS 2026.
 
 PettyJohn, M. E., Cary, K. M., Dandekar, S., **Singhal, M.**, Nilizadeh, S., & Voth Schrag, R. (2026, January). Characteristics of technology-facilitated abuse and safety strategies discussed in the Reddit community, r/stalking. [Poster]. Society for Social Work and Research, Washington, D.C.
@@ -43,19 +45,24 @@ Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Lear
 
 **Singhal, M.**, & Levine, D. (2019, October). Analysis and categorization of drive-by download malware. In 2019 4th International Conference on Computing, Communications and Security, ICCCS 2019 [{Paper}](https://ieeexplore.ieee.org/abstract/document/8888147){:target="_blank"}.
 
-
 Preprints
 ======
 
-Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2025). FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods. arXiv preprint [arXiv:2503.08731](https://arxiv.org/pdf/2503.08731).
+Wang, Y., Vu, H. G. H., & **Singhal, M.** (2026). The Tag is the Signal: URL-Agnostic Credibility Scoring for Messages on Telegram. arXiv preprint [arXiv:2601.13294](https://arxiv.org/pdf/2601.13294).
 
-Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.
-
-Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022). User Engagement and the Toxicity of Tweets. arXiv preprint [arXiv:2211.03856](https://arxiv.org/pdf/2211.03856.pdf){:target="_blank"}.
+Shin, H., Moon, H., & **Singhal, M.** (2026). How Diplomacy Reshapes Online Discourse: Asymmetric Persistence in Online Framing of North Korea. arXiv preprint [arXiv:2601.09942](https://arxiv.org/pdf/2601.09942).
 
 
 Recent News
 ======
+
+<span style="color:blue"> April 2026:</span> I was recently awarded the NULab Seeding Grant, for the proposal titled "Digital Narratives of Therapy Abuse: Detecting Trends and Assessing Impact via Reddit Discussions on r/therapyabuse" (PI, $2,500).
+
+
+<span style="color:blue"> April 2026:</span> Our paper titled "The Power of Social Norms: How Initial Responses to Toxicity Shape Conversations on Twitter" has been accepted to CySoc workshop at ICWSM 2026.
+
+<span style="color:blue"> March 2026:</span> I will be serving on the Program committee for AsiaCCS 2027 for the AI Security track. 
+
 
 <span style="color:blue"> December 2025:</span> I was recently awarded the Khoury Teaching Faculty Research Seed Grant Program, for the proposal titled "Fear Mongering on TikTok Platforms: Characterizing Health and Nutrition Misinformation" (PI, $15,000), Co-PI Divya Chaudhary (Northeastern University).
 

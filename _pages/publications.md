@@ -17,6 +17,8 @@ author_profile: true
 <!-- Publications
 ====== -->
 
+Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2026, June). The Power of Social Norms: How Initial Responses to Toxicity Shape Conversations on Twitter. To appear in the 7th International Workshop on Cyber Social Threats (CySoc) at the International Conference on Web and Social Media (ICWSM 2026).
+
 Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2026, June). Unequal Privacy: Auditing Demographic Bias Vulnerabilities in Visual Protection Systems. To appear in Asia CCS 2026.
 
 PettyJohn, M. E., Cary, K. M., Dandekar, S., **Singhal, M.**, Nilizadeh, S., & Voth Schrag, R. (2026, January). Characteristics of technology-facilitated abuse and safety strategies discussed in the Reddit community, r/stalking. [Poster]. Society for Social Work and Research, Washington, D.C.
@@ -41,10 +43,6 @@ Vafa, E. P.\*, **Singhal, M.**\*, Thota, P., & Roy, S. S. (2024, November). Lear
 Preprints
 ======
 
-Khorzooghi, S. M. S. M., Thota, P., **Singhal, M.**, Asudeh, A., Das, G., & Nilizadeh, S. (2025). FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods. arXiv preprint [arXiv:2503.08731](https://arxiv.org/pdf/2503.08731).
+Wang, Y., Vu, H. G. H., & **Singhal, M.** (2026). The Tag is the Signal: URL-Agnostic Credibility Scoring for Messages on Telegram. arXiv preprint [arXiv:2601.13294](https://arxiv.org/pdf/2601.13294).
 
-
-Aleksandric, A., **Singhal, M.**, Groggel, A., & Nilizadeh, S. (2022). Understanding the Bystander Effect on Toxic Twitter Conversations. arXiv preprint [arXiv:2211.10764](https://arxiv.org/pdf/2211.10764.pdf){:target="_blank"}.
-
-Salehabadi, N., Groggel, A., **Singhal, M.**, Roy, S. S., & Nilizadeh, S. (2022). User Engagement and the Toxicity of Tweets. arXiv preprint [arXiv:2211.03856](https://arxiv.org/pdf/2211.03856.pdf){:target="_blank"}.
-
+Shin, H., Moon, H., & **Singhal, M.** (2026). How Diplomacy Reshapes Online Discourse: Asymmetric Persistence in Online Framing of North Korea. arXiv preprint [arXiv:2601.09942](https://arxiv.org/pdf/2601.09942).
